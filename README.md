@@ -1,3 +1,3 @@
 # Roman S. Collins
 
-[link](romansc.github.io/)
+[romansc.github.io/](romansc.github.io/)
